@@ -10,7 +10,7 @@
 
 #### 0. Setting up a development environment
 
-  - Java JDK11
+  - Java JDK11 (LTS)
   
   - IntelliJ
   
