@@ -18,19 +18,17 @@
   
 #### 1. First Java app
  
-   - setup JDK in IntelliJ
+   - Setup JDK in IntelliJ
    
-   - what is a class
+   - What's a class
    
-   - java app entrypoint - main method
+   - Java app entrypoint - main method
 
-   - outputing to system console
+   - Using system console for I/O   
    
-   - reading from console
+   - Running / debugging a simple app
    
-   - running / debugging a simple app
-   
-   - variables and data types intro
+   - Variables and data types intro
    
 ***
    
