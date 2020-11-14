@@ -14,8 +14,6 @@
   
   - IntelliJ
   
-  - Maven 3
-  
 ***
   
 #### 1. First Java app
