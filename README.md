@@ -24,9 +24,11 @@
    
    - Java app entrypoint - main method
 
-   - Using system console for I/O   
+   - Using system console for I/O  
    
    - Running / debugging a simple app
+   
+   - Comments
    
    - Variables and data types intro
    
