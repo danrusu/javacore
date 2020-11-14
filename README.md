@@ -20,7 +20,9 @@
  
    - Setup JDK in IntelliJ
    
-   - What's a class
+   - Project structure - packages
+   
+   - What's a class     
    
    - Java app entrypoint - main method
 
