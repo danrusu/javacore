@@ -2,7 +2,7 @@
 
 ### Resources for **JIT Java Core** course
 
-**Aim for clean code and using productivity tools.**
+**Aim for clean code and productivity tools usage.**
 
 ***
 
