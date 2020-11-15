@@ -10,9 +10,11 @@
 
 #### 0. Setting up a development environment
 
-  - Java JDK11 (LTS)
+  - [GIT](https://git-scm.com/downloads)
+
+  - [Java JDK11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
   
-  - IntelliJ
+  - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/#section=windows)
   
 ***
   
