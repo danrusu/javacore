@@ -36,6 +36,8 @@
    
    - Variables and data types intro
    
+   - Create a Github repository and make your first push
+   
 ***
    
 #### 2. Data types, variables, fields, methods
