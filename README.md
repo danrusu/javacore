@@ -1,4 +1,4 @@
-## Java Core
+# Java Core
 
 ### Resources for **JIT Java Core** course
 
