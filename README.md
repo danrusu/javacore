@@ -10,7 +10,7 @@
 
 #### 0. Setting up a development environment
 
-  - [GIT](https://git-scm.com/downloads)    
+  - [Git](https://git-scm.com/downloads)    
   
      - download and install GitBash
 
@@ -28,8 +28,8 @@
      - add Java executables path **%JAVA_HOME%\bin** to system **Path** environment variable
      
        i.e.
-       | Env variable | Path                                        |
-       |:------------:|:-------------------------------------------:|
+       | Env variable | Path                                         |
+       |:------------:|:--------------------------------------------:|
        | Path         | %JAVA_HOME%\bin;C:\Program Files\Git\bin;... |          
      
   
