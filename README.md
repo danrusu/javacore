@@ -16,19 +16,19 @@
   
      - download and install 
      
-     - set *JAVA_HOME* environment variable with the path to the directory of the JDK instalation
+     - set **JAVA_HOME** environment variable with the path to the directory of the JDK instalation
      
-      i.e.
-      | Env variable | Path |
-      |:---:|:---:|
-      | **JAVA_HOME** | C:\Program Files\Java\jdk-11.0.2 |  
+       i.e.
+       | Env variable | Path |
+       |:---:|:---:|
+       | **JAVA_HOME** | C:\Program Files\Java\jdk-11.0.2 |  
      
      - add Java executables path **%JAVA_HOME%\bin** to system **Path** environment variable
      
-      i.e.
-      | Env variable | Path |
-      |:---:|:---:|
-      | **Path** | %JAVA_HOME%\bin;C:\Program Files\Git\bin... |          
+       i.e.
+       | Env variable | Path |
+       |:---:|:---:|
+       | **Path** | %JAVA_HOME%\bin;C:\Program Files\Git\bin... |          
      
   
   - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/#section=windows)
