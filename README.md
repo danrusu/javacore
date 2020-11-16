@@ -1,8 +1,7 @@
 
-| # Java Core  | ![JITS](./resources/jits_driver.png "JITS")  |
-|:------------:|:--------------------------------:|
+# | ![JITS](./resources/jits_driver.png "JITS") |  Java Core Course  |
+# |:-------------------------------------------:|:------------------:|
 
-### Resources for **JIT Java Core** course
 
 **Aim for clean code and productivity tools usage.**
 
