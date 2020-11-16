@@ -1,6 +1,6 @@
-![JITS](./resources/jits_driver.png "JITS") 
 
-# Java Core
+| # Java Core  | ![JITS](./resources/jits_driver.png "JITS")  |
+|:------------:|:--------------------------------:|
 
 ### Resources for **JIT Java Core** course
 
