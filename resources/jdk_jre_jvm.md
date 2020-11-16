@@ -2,7 +2,7 @@
 
 ### JDK
 
-*Java Development Kit* is the tool kit which provides the environment to develop and execute Java programs including
+*Java Development Kit* is the tool kit which provides the environment to develop and execute Java programs including:
 
   - Development Tools (to write Java programs)
 
