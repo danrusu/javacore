@@ -1,4 +1,10 @@
 
+<style>
+td {
+  font-size: 50px
+}
+</style>
+
 | ![JITS](./resources/jits_driver.png "JITS") |  **Java Core Course**  |
 |:-------------------------------------------:|:----------------------:|
 
