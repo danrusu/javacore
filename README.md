@@ -41,7 +41,7 @@
   
 ***
   
-#### 1. First Java app
+#### 1. [First Java App](./src/course1)
  
    - Setup JDK in IntelliJ
    
@@ -63,7 +63,7 @@
    
 ***
    
-#### 2. Data types, variables, fields, methods
+#### [2. Data types, variables, fields, methods](./src/course2)
    
    
 
