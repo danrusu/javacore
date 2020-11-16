@@ -30,7 +30,7 @@
        i.e.
        | Env variable | Path                                        |
        |:------------:|:-------------------------------------------:|
-       | Path         | %JAVA_HOME%\bin;C:\Program Files\Git\bin... |          
+       | Path         | %JAVA_HOME%\bin;C:\Program Files\Git\bin;... |          
      
   
   - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/#section=windows)
