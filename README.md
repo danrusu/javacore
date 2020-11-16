@@ -4,6 +4,11 @@
 
 **Aim for clean code and productivity tools usage.**
 
+[What is **JDK**, **JRE** and **JVM**?](./resources/jdk_jre_jvm.md)
+
+[Oracle resources](https://www.java.com/en/)
+
+
 ***
 
 ### Summary
