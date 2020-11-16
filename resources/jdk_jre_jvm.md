@@ -16,3 +16,4 @@ Hence, JRE is only used by them who only wants to run the Java Programs i.e. end
    Java Virtual machine(JVM) is a very important part of both JDK and JRE because it is contained or inbuilt in both. Whatever java program you run using JRE or JDK goes into JVM and JVM is responsible to execute the java program line by line hence it is also known as interpreter(we will discuss interpreter later). Hence you don’t need to install JVM separately into your machine because it is inbuilt into your JDK or JRE installation package.
 
 
+[source](https://javainterviewgoal.blogspot.com/2019/07/what-is-jdk-jre-and-jvm.html)
