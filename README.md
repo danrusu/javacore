@@ -64,16 +64,22 @@
    
    - Comments
    
+   - Packages & Imports
+   
+   - Creating objects
+   
+   - Using objects  
+   
    - Variables and data types intro
    
    - Create a Github repository and make your first push
    
-   - [Practice](./resources/practice/course1)
+   - [Practice](./resources/practice/course1)      
    
 ***
    
 #### [2. Data types, variables, fields](./src/course2)
-   
+      
    - [Primitive data types](./resources/primitiveDataTypes.md)
    
    - Primitive wrappers
@@ -152,19 +158,8 @@
 
 ****
 
-#### [8. Imports and object creation](./src/course8)
 
-   - Packages & Imports
-   
-   - Creating objects
-   
-   - Using objects  
-
-   - [Practice](./resources/practice/course8)
-
-****
-
-#### [9. String](./src/course9)
+#### [8. String](./src/course8)
 
    - String pool
    
@@ -176,11 +171,11 @@
    
    - Equalty
 
-   - [Practice](./resources/practice/course9)
+   - [Practice](./resources/practice/course8)
 
 ****
 
-#### [11. Collections](./src/course11)
+#### [9. Collections](./src/course9)
 
    - List
    
@@ -192,21 +187,21 @@
    
    - Processing collections (imperative)
    
-   - [Practice](./resources/practice/course11)
+   - [Practice](./resources/practice/course9)
       
 ****
 
-#### [12. Enums](./src/course12)
+#### [10. Enums](./src/course10)
 
    - API
    
    - Using fields and contructors
    
-   - [Practice](./resources/practice/course12)
+   - [Practice](./resources/practice/course10)
       
 ****
 
-#### [13. Exceptions](./src/course13)
+#### [11. Exceptions](./src/course11)
 
    - Exceptions vs. errors
 
@@ -214,28 +209,28 @@
    
    - Handling exceptions
    
+   - [Practice](./resources/practice/course11)
+      
+****
+
+#### [12. File I/O - NIO](./src/course12)
+
+   - 
+   
+   - [Practice](./resources/practice/course12)
+      
+****
+
+#### [13. Interfaces](./src/course13)
+
+   - 
+   
+   
    - [Practice](./resources/practice/course13)
       
 ****
 
-#### [14. File I/O - NIO](./src/course14)
-
-   - 
-   
-   - [Practice](./resources/practice/course14)
-      
-****
-
-#### [15. Interfaces](./src/course15)
-
-   - 
-   
-   
-   - [Practice](./resources/practice/course15)
-      
-****
-
-#### [16. Stream API](./src/course16)
+#### [14. Stream API](./src/course14)
 
    - Functional interface
    
@@ -245,7 +240,7 @@
    
    - Parallel processing
    
-   - [Practice](./resources/practice/course16)
+   - [Practice](./resources/practice/course14)
       
 ****
 
