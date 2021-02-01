@@ -9,5 +9,10 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Hello World");
+        // CTRL + D - duplicate line
+        // CTRL + SHIFT + UP/DOWN ARROWS - move line up/down
+        System.out.println("Hello World");
+
+        // Toggling between upper/lower case the selected text - CTRL + SHIFT + U
     }
 }
