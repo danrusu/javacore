@@ -175,7 +175,17 @@
 
 ****
 
-#### [9. Collections](./src/course9)
+#### [9. Enums](./src/course10)
+
+   - API
+   
+   - Using fields and contructors
+   
+   - [Practice](./resources/practice/course10)
+      
+****
+
+#### [10. Collections](./src/course9)
 
    - List
    
@@ -188,16 +198,6 @@
    - Processing collections (imperative)
    
    - [Practice](./resources/practice/course9)
-      
-****
-
-#### [10. Enums](./src/course10)
-
-   - API
-   
-   - Using fields and contructors
-   
-   - [Practice](./resources/practice/course10)
       
 ****
 
