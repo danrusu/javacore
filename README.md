@@ -13,6 +13,8 @@
 
 ## Road Map
 
+[Q & A](./src/qna)
+
 #### 0. Setting up a development environment
 
   - [Git](https://git-scm.com/downloads)    
