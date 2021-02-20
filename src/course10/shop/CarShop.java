@@ -2,6 +2,7 @@ package course10.shop;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.function.Predicate;
 
@@ -20,7 +21,7 @@ Tasks - create methods for the following:
 6. Get BMW cars price statistics (count, total price, average price, min/max price)
 */
 public class CarShop {
-    private List<Car> cars;
+    private final List<Car> cars;
 
     private CarShop(List<Car> cars) {
         this.cars = cars;
@@ -46,9 +47,20 @@ public class CarShop {
         return new CarShop(defaultCarList);
     }
 
-    public List<String> getAllPorscheCarNames() {
+    // 1. Get all Porsche car names
+    public List<String> getAllPorscheCarNamesImperative1() {
         List<String> allPorscheCarNames = new ArrayList<>();
-        // for (int i = 0; i < cars.size(); i++) {
+        for (int i = 0; i < cars.size(); i++) {
+            String carName = cars.get(i).getName();
+            if (carName.toLowerCase().contains("porsche")) {
+                allPorscheCarNames.add(carName);
+            }
+        }
+        return allPorscheCarNames;
+    }
+
+    public List<String> getAllPorscheCarNamesImperative2() {
+        List<String> allPorscheCarNames = new ArrayList<>();
         for (Car car : cars) {
             String carName = car.getName();
             if (carName.toLowerCase().contains("porsche")) {
@@ -58,14 +70,14 @@ public class CarShop {
         return allPorscheCarNames;
     }
 
-    public List<String> getAllPorscheCarNames2() {
+    public List<String> getAllPorscheCarNamesDeclarative() {
         return cars.stream()
                 .filter(car -> car.getName().toLowerCase().contains("porsche"))
                 .map(car -> car.getName())
                 .collect(toList());
     }
 
-    public List<String> getAllPorscheCarNames3() {
+    public List<String> getAllPorscheCarNamesMoreDeclarative() {
         return cars.stream()
                 .filter(isPorscheCar())
                 .map(Car::getName)
@@ -75,5 +87,16 @@ public class CarShop {
     private Predicate<Car> isPorscheCar() {
         return car -> car.getName().toLowerCase().contains("porsche");
     }
+
+    public void print(){
+        cars.forEach(System.out::println);
+    }
+
+    //2. Get all car types
+    //3. Get a list of Porsche cars sorted ascending by price
+    //4. Get the fastest car
+    //// try 5,6 only in imperative approach
+    //5. Get an average price for BMW cars
+    //6. Get BMW cars price statistics (count, total price, average price, min/max price)
 
 }
